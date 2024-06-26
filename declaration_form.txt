@@ -1,0 +1,27 @@
+Group member 1 name: 
+Group member 1 ID: 
+Group member 1 tel. no: 
+Group member 1 email: 
+Date: 
+Tasks list: 
+
+Group member 2 name: Nicholas Goo Wei Hong
+Group member 2 ID: 1211201090
+Group member 2 tel. no: 011-16683779
+Group member 2 email: 1211201090@student.mmu.edu.my
+Date: 21/6/2024
+Tasks list: 
+
+Group member 3 name: 
+Group member 3 ID: 
+Group member 3 tel. no: 
+Group member 3 email: 
+Date: 
+Tasks list:
+
+Group member 4 name:
+Group member 4 ID:
+Group member 4 tel. no:
+Group member 4 email:
+Date:
+Tasks list:
