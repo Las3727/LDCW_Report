@@ -1,4 +1,4 @@
-Group member 1 name: 
+Group member 1 name: Cheong Jia Jie
 Group member 1 ID: 
 Group member 1 tel. no: 
 Group member 1 email: 
