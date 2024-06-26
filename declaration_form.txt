@@ -1,8 +1,8 @@
 Group member 1 name: Cheong Jia Jie
-Group member 1 ID: 
-Group member 1 tel. no: 
-Group member 1 email: 
-Date: 
+Group member 1 ID: 1211201276
+Group member 1 tel. no: 011-12900778
+Group member 1 email: 1211201276@student.mmu.edu.my
+Date: 28 June 2024
 Tasks list: 
 
 Group member 2 name: Nicholas Goo Wei Hong
