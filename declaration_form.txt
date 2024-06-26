@@ -12,14 +12,14 @@ Group member 2 email: 1211201090@student.mmu.edu.my
 Date: 21/6/2024
 Tasks list: 
 
-Group member 3 name: 
+Group member 3 name: Ngo Wei Cheng
 Group member 3 ID: 
 Group member 3 tel. no: 
 Group member 3 email: 
 Date: 
 Tasks list:
 
-Group member 4 name:
+Group member 4 name: Danish bin Nor Hashim
 Group member 4 ID:
 Group member 4 tel. no:
 Group member 4 email:
